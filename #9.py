@@ -1,4 +1,5 @@
 #Given a non-negative integer n, find a number r such that r * r = n and round down to the nearest integer.
+#ex: n=29, ans will be 5 cause its the nearest square root.
 
 class Solution:
     def solve(self, n):
