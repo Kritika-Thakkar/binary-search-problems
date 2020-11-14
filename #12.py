@@ -1,4 +1,4 @@
-#Given three numbers, a, b, and c, return their product, but if any two numbers are the same, they do not count
+#Given three numbers, a, b, and c, return their product, but if any two numbers are the same, they do not count.
 
 class Solution:
     def solve(self, a, b, c):
